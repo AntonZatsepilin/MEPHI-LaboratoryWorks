@@ -1,4 +1,0 @@
-/Users/anton/desktop/Books 2 semestr/Информатика/Lab4_Sem2/CMakeFiles/main.dir
-/Users/anton/desktop/Books 2 semestr/Информатика/Lab4_Sem2/CMakeFiles/test.dir
-/Users/anton/desktop/Books 2 semestr/Информатика/Lab4_Sem2/CMakeFiles/edit_cache.dir
-/Users/anton/desktop/Books 2 semestr/Информатика/Lab4_Sem2/CMakeFiles/rebuild_cache.dir
