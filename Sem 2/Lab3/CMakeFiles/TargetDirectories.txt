@@ -1,0 +1,3 @@
+/Users/anton/Desktop/Books 2 semestr/Информатика/Lab3_Sem2/CMakeFiles/main.dir
+/Users/anton/Desktop/Books 2 semestr/Информатика/Lab3_Sem2/CMakeFiles/edit_cache.dir
+/Users/anton/Desktop/Books 2 semestr/Информатика/Lab3_Sem2/CMakeFiles/rebuild_cache.dir
